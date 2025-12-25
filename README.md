@@ -11,10 +11,13 @@ This is a beginner-friendly Python project created as my first GitHub project.
 ## Technologies Used
 - Python
 
-## How to Run
-1. Download or clone the repository
-2. Open terminal in project folder
-3. Run: python main.py
+## How to Run the Project
+1. Make sure Python is installed
+2. Download or clone this repository
+3. Open terminal in project folder
+4. Run the command:
+   python main.py
 
 ## Author
 Shresth
+
